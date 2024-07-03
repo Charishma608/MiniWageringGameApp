@@ -18,7 +18,7 @@ To get started with WageringGameApp, follow these steps:
     yarn install
 ```
 3.**Configure Firebase:**
-###To use Firebase services in the app, you need to configure your Firebase project. Create a Firebase project in the [Firebase Console](https://console.firebase.google.com/) if you haven't already. Then, obtain your Firebase configuration object:
+### To use Firebase services in the app, you need to configure your Firebase project. Create a Firebase project in the [Firebase Console](https://console.firebase.google.com/) if you haven't already. Then, obtain your Firebase configuration object:
 
 ```javascript
 const firebaseConfig = {
@@ -32,15 +32,15 @@ const firebaseConfig = {
 ```
 
 4.**Run the app**
-###Start the Metro bundler
+### Start the Metro bundler
 ```bash
 npx react-native start
 ```
-###For Android
+### For Android
 ```bash
 npx react-native run-android
 ```
-###For ios
+### For ios
 ```bash
 npx react-native run-ios
 ```
