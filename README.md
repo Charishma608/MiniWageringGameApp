@@ -8,7 +8,7 @@ To get started with WageringGameApp, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Charishma608/MiniWageringGameApp.git>
    cd WageringGameApp
    ```
 2. **Install Dependencies:**
