@@ -17,8 +17,8 @@ To get started with WageringGameApp, follow these steps:
      # or
     yarn install
 ```
-3.**Configure Firebase**
-To use Firebase services in the app, you need to configure your Firebase project. Create a Firebase project in the [Firebase Console](https://console.firebase.google.com/) if you haven't already. Then, obtain your Firebase configuration object:
+3.**Configure Firebase:**
+###To use Firebase services in the app, you need to configure your Firebase project. Create a Firebase project in the [Firebase Console](https://console.firebase.google.com/) if you haven't already. Then, obtain your Firebase configuration object:
 
 ```javascript
 const firebaseConfig = {
