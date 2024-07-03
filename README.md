@@ -9,7 +9,7 @@ To get started with WageringGameApp, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone <https://github.com/Charishma608/MiniWageringGameApp.git>
-   cd WageringGameApp
+   cd MiniWageringGameApp
    ```
 2. **Install Dependencies:**
   ```bash
@@ -47,7 +47,7 @@ npx react-native run-ios
 
 **App Architecture**
 ```bash
-WageringGameApp/
+MiniWageringGameApp/
 │
 ├── src/
 │   ├── components/        # Reusable UI components
